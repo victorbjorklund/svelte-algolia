@@ -1,7 +1,7 @@
 {
-  "name": "svelte-algolia",
-  "description": "Algolia server-side index updater and client-side search component for Svelte projects",
-  "author": "Janosh Riebesell <janosh.riebesell@gmail.com>",
+  "name": "fork-svelte-algolia",
+  "description": "Fork. Algolia server-side index updater and client-side search component for Svelte projects",
+  "author": "Victor Björklund",
   "homepage": "https://svelte-algolia.netlify.app",
   "repository": "https://github.com/janosh/svelte-algolia",
   "license": "MIT",

@@ -1,0 +1,1 @@
+This is not the package you are looking for. The correct package is: https://www.npmjs.com/package/svelte-algolia

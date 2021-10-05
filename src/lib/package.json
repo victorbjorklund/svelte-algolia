@@ -1,0 +1,30 @@
+{
+  "name": "fork-svelte-algolia",
+  "version": "0.3.8",
+  "description": "Algolia server-side index updater and client-side search component for Svelte projects",
+  "keywords": [
+    "svelte",
+    "algolia",
+    "plugin",
+    "search",
+    "server-side",
+    "client-side"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^4.10.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    "./Search.svelte": "./Search.svelte",
+    "./SearchIcon.svelte": "./SearchIcon.svelte",
+    "./actions.js": "./actions.js",
+    "./index.js": "./index.js",
+    "./main.js": "./main.js",
+    ".": "./index.js"
+  }
+}
